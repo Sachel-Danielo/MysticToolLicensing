@@ -23,6 +23,12 @@
             "license": "SLOW-NWGE-TW1X-WO51",
             "processorid": "BFEBFBFF000306C3",
             "expiration_date": "25/3/2025"
-        }      
+        },
+        {
+            "username": "Dexter",
+            "license": "KFQA-OA6G-DK2M-PDRW",
+            "processorid": "BFEBFBFF000906EA",
+            "expiration_date": "30/3/2025"
+        } 
     ]
 }
