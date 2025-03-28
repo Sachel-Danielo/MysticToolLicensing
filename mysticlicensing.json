@@ -7,6 +7,12 @@
             "expiration_date": "Lifetime"
         },
         {
+            "username": "Mystic Haven Staff",
+            "license": "MYSTIC-TOOL-STAFF-PASS",
+            "processorid": "",
+            "expiration_date": "Lifetime"
+        },
+        {
             "username": "Falcon",
             "license": "UJJR-21PY-7XJM-Z5CV",
             "processorid": "BFEBFBFF000906A4",
