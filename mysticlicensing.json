@@ -2,33 +2,9 @@
     "licenses": [
         {
             "username": "Sachel_D™",
-            "license": "ACE1-TOOL-PASS-0001",
+            "license": "MYSTIC-TOOL-PASS-0001",
             "processorid": "BFEBFBFF000906E9",
             "expiration_date": "Lifetime"
-        },
-        {
-            "username": "Rumman",
-            "license": "0I0O-O34Y-5FMD-EG3F",
-            "processorid": "BFEBFBFF000306C3",
-            "expiration_date": "31/3/2025"
-        },
-        {
-            "username": "Vrushank",
-            "license": "DOQU-2JVG-AA9G-25KG",
-            "processorid": "BFEBFBFF000906A3",
-            "expiration_date": "25/3/2025"
-        },
-        {
-            "username": "Gay",
-            "license": "SLOW-NWGE-TW1X-WO51",
-            "processorid": "BFEBFBFF000306C3",
-            "expiration_date": "25/3/2025"
-        },
-        {
-            "username": "Dexter",
-            "license": "KFQA-OA6G-DK2M-PDRW",
-            "processorid": "BFEBFBFF000906EA",
-            "expiration_date": "27/3/2025"
-        } 
+        }
     ]
 }
