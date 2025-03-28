@@ -5,6 +5,12 @@
             "license": "MYSTIC-TOOL-PASS-0001",
             "processorid": "BFEBFBFF000906E9",
             "expiration_date": "Lifetime"
+        },
+        {
+            "username": "Falcon",
+            "license": "UJJR-21PY-7XJM-Z5CV",
+            "processorid": "BFEBFBFF000906A4",
+            "expiration_date": "11/4/2025"
         }
     ]
 }
