@@ -17,12 +17,6 @@
             "license": "OMEGA-TOOL-PASS-0001",
             "processorid": "BFEBFBFF000506E3",
             "expiration_date": "Lifetime"
-        },
-        {
-            "username": "1",
-            "license": "1",
-            "processorid": "1",
-            "expiration_date": "1"
         }
     ]
 }
