@@ -29,6 +29,12 @@
             "license": "2000",
             "processorid": "52",
             "expiration_date": "1/01/1"
+        },
+        {
+            "username": "stark",
+            "license": "SHSKAKKA5666",
+            "processorid": "BFEBFBFF000506E3",
+            "expiration_date": "lifetime"
         }
     ]
 }
